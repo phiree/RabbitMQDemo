@@ -1,0 +1,11 @@
+D:\Code\RabbitMQDemo\Worker\obj\Debug\netcoreapp2.1\Worker.csprojAssemblyReference.cache
+D:\Code\RabbitMQDemo\Worker\obj\Debug\netcoreapp2.1\Worker.csproj.CoreCompileInputs.cache
+D:\Code\RabbitMQDemo\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfoInputs.cache
+D:\Code\RabbitMQDemo\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfo.cs
+D:\Code\RabbitMQDemo\Worker\bin\Debug\netcoreapp2.1\Worker.deps.json
+D:\Code\RabbitMQDemo\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.json
+D:\Code\RabbitMQDemo\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.dev.json
+D:\Code\RabbitMQDemo\Worker\bin\Debug\netcoreapp2.1\Worker.dll
+D:\Code\RabbitMQDemo\Worker\bin\Debug\netcoreapp2.1\Worker.pdb
+D:\Code\RabbitMQDemo\Worker\obj\Debug\netcoreapp2.1\Worker.dll
+D:\Code\RabbitMQDemo\Worker\obj\Debug\netcoreapp2.1\Worker.pdb
